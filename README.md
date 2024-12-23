@@ -1,4 +1,5 @@
 datos de conexión:
+
 usuario: root
 password: sin contraseña
 
