@@ -6,7 +6,7 @@
 
 ## Montar base de datos:
 
-- El archivo creará la base de datos llamada empleados, creará la tabla e insertará los usuarios. Este archivo está junto a pom.xml con el nombre empleados.sql
+- El archivo creará la base de datos llamada empleados, creará la tabla e insertará los usuarios. Este archivo está junto a pom.xml con el nombre empleados.sql.
 
 - Hay que ejecutar el archivo empleados.sql en una base de datos Mysql (Sepuede utilizar cualquier interfaz gráfica como MySql Workbench por ejemplo).
 
