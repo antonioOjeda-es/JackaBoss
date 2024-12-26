@@ -1,4 +1,4 @@
-## datos de conexión:
+## Datos de conexión:
 
 - Usuario: root
 
