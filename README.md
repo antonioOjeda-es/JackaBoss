@@ -4,6 +4,8 @@
 
 - Password: sin contraseña
 
+- Nombre de la base de datos: empleados
+
 ## Montar base de datos:
 
 - El archivo creará la base de datos llamada empleados, creará la tabla e insertará los usuarios. Este archivo está junto a pom.xml con el nombre empleados.sql.
